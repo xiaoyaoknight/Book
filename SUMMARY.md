@@ -11,6 +11,7 @@
     * [iTerm2](tool/Chapter/iTerm2.md)
     * [node](tool/Chapter/node.md)
     * [gitbook](tool/Chapter/gitbook.md)
+    * [Mac上提高效率的软件](tool/Chapter/Mac上提高效率的软件.md)
 
 -----
 * [iOS](ios/README.md)
