@@ -1,6 +1,17 @@
 # Summary
 
 * [前言](README.md)
+* [工具篇](tool/README.md)
+    * [Mac初次配置文档记录](tool/Chapter/Mac初次配置文档记录.md)
+    * [Gem](tool/Chapter/Gem.md)
+    * [Homebrew](tool/Chapter/Homebrew.md)
+    * [Mac-Ruby](tool/Chapter/Mac-Ruby.md)
+    * [Mac配置多个ssh-key](tool/Chapter/Mac配置多个ssh-key.md)
+    * [CocoaPods](tool/Chapter/CocoaPods.md)
+    * [iTerm2](tool/Chapter/iTerm2.md)
+    * [node](tool/Chapter/node.md)
+
+-----
 * [iOS](ios/README.md)
     * [Object-C](ios/Chapter1/Object-C.md)
         * [第一章](ios/Chapter/first.md)
