@@ -10,6 +10,7 @@
     * [CocoaPods](tool/Chapter/CocoaPods.md)
     * [iTerm2](tool/Chapter/iTerm2.md)
     * [node](tool/Chapter/node.md)
+    * [gitbook](tool/Chapter/gitbook.md)
 
 -----
 * [iOS](ios/README.md)
