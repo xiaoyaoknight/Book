@@ -54,7 +54,12 @@
         * [ios属性的关键字](ios/内存管理/ios属性的关键字.md)
     * [网络](ios/网络/网络.md)
         * [网络](ios/网络/网络.md)
-        * [知识点](ios/网络/知识点.md)
+    * [ios错误集结](ios/ios错误集结/ios错误集结.md) 
+    	 * [解决pod lib lint/repo push不支持i386编译&只能真机运行的库](ios/ios错误集结/解决pod lib lint repo push不支持i386编译&只能真机运行的库.md) 
+    	 * [ios忽略警告问题](ios/ios错误集结/ios忽略警告问题.md) 
+    	 * [JsonModel升级警告问题](ios/ios错误集结/JsonModel升级警告问题.md) 
+    	 * [Install claimed to have succeeded, but application could not be found on device](ios/ios错误集结/Install claimed to have succeeded, but application could not be found on device.md) 
+    	 * [使用Masonry约束tableHeaderView,解决错位问题](ios/ios错误集结/使用Masonry约束tableHeaderView,解决错位问题.md) 
 
 -----
 * [UI相关](ios/UI相关/UI相关.md)
