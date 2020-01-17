@@ -9,6 +9,7 @@
     * [Mac-Ruby](tool/Chapter/Mac-Ruby.md)
     * [Mac配置多个ssh-key](tool/Chapter/Mac配置多个ssh-key.md)
     * [CocoaPods](tool/Chapter/CocoaPods.md)
+    * [Cocoapods创建私有库](tool/Chapter/Cocoapods创建私有库.md)
     * [iTerm2](tool/Chapter/iTerm2.md)
     * [node](tool/Chapter/node.md)
     * [gitbook](tool/Chapter/gitbook.md)
