@@ -60,6 +60,16 @@
     	 * [JsonModel升级警告问题](ios/ios错误集结/JsonModel升级警告问题.md) 
     	 * [Install claimed to have succeeded, but application could not be found on device](ios/ios错误集结/Install claimed to have succeeded, but application could not be found on device.md) 
     	 * [使用Masonry约束tableHeaderView,解决错位问题](ios/ios错误集结/使用Masonry约束tableHeaderView,解决错位问题.md) 
+    * [ios上架问题](ios/上架问题/ios上架问题.md) 
+    	 * 	[ios公司账号申请](ios/上架问题/ios公司账号申请.md) 
+    	 * [BitCode](ios/上架问题/BitCode.md) 
+    	 * [发布正式adhoc调试](ios/上架问题/发布正式adhoc调试.md) 
+    	 * [iOS用TestFlight测试](ios/上架问题/iOS用TestFlight测试.md) 
+    	 * [iOS APP转让](ios/上架问题/iOS APP转让.md) 
+    	 * [App Store 注册美区 Apple ID 帐号终极指南](ios/上架问题/App Store 注册美区 Apple ID 帐号终极指南.md) 
+    	 * [2018苹果审核及被拒问题收集](ios/上架问题/2018苹果审核及被拒问题收集.md) 
+    	 * [最全详解 | 2018年苹果审核指南最新更新条款①](ios/上架问题/2018年苹果审核指南最新更新条款.md) 
+
 
 -----
 * [UI相关](ios/UI相关/UI相关.md)
