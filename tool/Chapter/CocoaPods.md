@@ -172,6 +172,12 @@ pod setup
 >这个时候要去把整个specs仓库clone一下，下载到 ~/.cocoapods里；
 cd  到该目录里，用du -sh *命令来查看文件大小，每隔一会看看。
 
+依然失败的话
+```
+git clone https://git.coding.net/CocoaPods/Specs.git ~/.cocoapods/repos/master 
+```
+该过程作用与 pod setup作用相同
+
 ##### 再次查看版本
 `pod --version`
 
