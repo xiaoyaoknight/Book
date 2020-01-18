@@ -8,6 +8,7 @@
 - [官方文档](https://docs.brew.sh)
 - [官方软件包仓库](https://formulae.brew.sh)
 - [brew的详细指南介绍](https://shockerli.net/post/macos-homebrew-manual/)
+- homebrew的GUI工具Cakebrew
 
 
 ##### 查看当前shell
