@@ -207,6 +207,27 @@ $ sudo gem install cocoapods --version 1.7.4
 >编辑Podfile以将CDN设置为主要来源：
 source 'https://cdn.cocoapods.org/'
 
+##### cocoaPods 版本1.8.4，pod install失败问题
+
+```
+Adding spec repo `trunk` with CDN `https://cdn.cocoapods.org/`
+
+[!] CDN: trunk Repo update failed - 58 error(s):
+
+网上看了半天，说在podfile中添加source ‘https://github.com/CocoaPods/Specs.git’
+```
+
+问题仍然没解决
+
+```
+（1）podfile添加source 'https://github.com/CocoaPods/Specs.git'
+
+（2）pod repo list 查看一下源列表
+
+（3）pod repo remove trunk 移除trunk源
+```
+
+[cocoapods1.8CDN介绍](https://www.91kuzhan.com/article-3310-1.html)
 
 ### 解决ping github.com超时问题
 
@@ -223,9 +244,20 @@ source 'https://cdn.cocoapods.org/'
 $ pod setup # CocoaPods 将信息下载到~/.cocoapods/repos 目录下。如果安装 CocoaPods 时不执行此命令，在初次执行 pod intall 命令时，系统也会自动执行该指令
 $ pod --version # 检查 CocoaPods 是否安装成功及其版本号
 $ pod install # 安装 CocoaPods 的配置文件 Podfile
+$ pod repo list # 查看一下源列表
+$ pod repo remove trunk # 移除trunk源
 ```
 
+### CocoaPods 删除本地缓存
 
+下载不易，清理需谨慎。
+
+```
+// 移除本地master
+sudo rm -fr ~/.cocoapods/repos/master
+// 移除本地缓存
+sudo rm -fr ~/Library/Caches/CocoaPods/
+```
 
 ---
 
