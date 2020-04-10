@@ -61,6 +61,14 @@
 ##### 06.  调节到自己舒服的大小最重要～也可以尝试改到左边或者右边，看大家的喜好了～
 ![](https://upload-images.jianshu.io/upload_images/1401554-68cc5f5e212142f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+###### 07. 	自动隐藏 Dock
+我们知道 Dock 默认位于屏幕底部，而且屏幕本身是 16 : 9 的，这就导致屏幕的可视部分更加扁平。所以我的习惯是把它放在屏幕左侧（右侧也是同理），这样会使屏幕的宽高比更加自然一些。
+
+长期展示 Dock 对并不大的屏幕空间来说是一种浪费，我们可以把它设置为自动隐藏，当鼠标滑过去以后再显示：
+
+```
+defaults write com.apple.dock autohide -bool true
+```
 
 参考文章：
 [Mac 更改Dock显示的大小](https://jingyan.baidu.com/article/4853e1e500f9131908f72674.html)
